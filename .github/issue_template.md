@@ -4,7 +4,7 @@
 
 <!---
     Se a vaga for presencial, adicione ao início da issue o código do Estado.
-    (exemplo: [SP - Morumbi] EmpresaFictícia - Desenvolvedor iOS Pleno
+    exemplo: [SP - Morumbi] EmpresaFictícia - Desenvolvedor iOS Pleno
  --->
  
  <!--- Por favor, siga o fluxo abaixo --->
