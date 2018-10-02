@@ -1,9 +1,13 @@
-<!--- Por favor, siga o fluxo abaixo --->
+<!--- Regras do canal: https://github.com/CocoaHeadsBrasil/vagas/   --->
+
+<!--- Atenção! Verifique as regras do canal antes de postar sua vaga. Vagas fora das regras serão excluídas e a reincidência pode causar o banimento do usuário no canal. Obrigado!  --->
 
 <!---
     Se a vaga for presencial, adicione ao início da issue o código do Estado.
-    (exemplo: [SP - Morumbi] EmpresaFictícia - Desenvolvedor iOS Pleno)
+    (exemplo: [SP - Morumbi] EmpresaFictícia - Desenvolvedor iOS Pleno
  --->
+ 
+ <!--- Por favor, siga o fluxo abaixo --->
 
 ## Empresa
  Breve descrição da empresa
