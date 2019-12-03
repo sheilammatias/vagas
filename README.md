@@ -22,6 +22,20 @@ Não serão aceitas empresas montando banco de currículos
 
 #### Não serão aceitas vagas discriminatórias 
 
-#### Somente vagas para comunidade iOS e macOS
-Para Android utilize: https://github.com/androiddevbr/vagas
-Para Front-end utilize: https://github.com/frontendbr/vagas
+### Outros repositórios de vagas
+
+Como esse repositório é específico para a postagem de vagas de **iOS e MacOS**,
+mas existem vagas para muitas outras áreas nesse mercado, algumas pessoas
+da comunidade forkaram esse repositório e criaram outras listas específicas
+para diferentes _stacks_ e estados do país. Confira abaixo as outras
+listas onde você poderá postar sua vaga:
+
+- [Vagas para desenvolvedores Front-end](https://github.com/frontendbr/vagas)
+- [Vagas para desenvolvedores Back-end](https://github.com/backend-br/vagas)
+- [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
+- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
+- [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
+- [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
+- [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
