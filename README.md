@@ -10,7 +10,7 @@ Adicione uma **issue** utilizando o template oferecido na descrição. No títul
 
 `[São Paulo - SP] Empresa - Desenvolvedor iOS`
 
-Adicione _labels_ contendo o nível de experiência desejada e o formato de contração.
+Adicione _labels_ contendo o nível de experiência desejada e o formato de contratação.
 
 ### Regras de Uso
 
