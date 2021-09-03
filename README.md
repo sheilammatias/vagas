@@ -20,7 +20,12 @@ Se você é um recrutador, você deve identificar o nome da empresa em que o can
 #### As vagas devem ser reais
 Não serão aceitas empresas montando banco de currículos
 
-#### Não serão aceitas vagas discriminatórias 
+#### Não serão aceitas vagas discriminatórias
+
+#### ⚠ Por gentilize e cordialidade evitar spam 
+Você quer que sua vaga sempre fique listada nas últimas, por gentiliza evitar ficar postando a mesma vaga com intervalo pequeno. Os desenvolvedores sabem navegar nas *issues* e encontrar as vagas. 
+
+Caso queira sinalizar que uma posição ainda está aberta, utilize a **seção de comentários** da sua própria *issue*. Assim evitamos vagas duplicadas e *spam*.
 
 ### Outros repositórios de vagas
 
@@ -36,6 +41,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas pra desenvolvedores Flutter](https://github.com/Flutterando/Vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
 - [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
